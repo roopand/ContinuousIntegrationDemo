@@ -16,7 +16,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>com.mypackage.MyClass</mainClass>
+            <mainClass>testpac.newCitCls</mainClass>
           </manifest>
         </archive>
       </configuration>
